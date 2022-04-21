@@ -11,6 +11,12 @@
       "day": "asdf",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "hola",
+      "day": "hola",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
